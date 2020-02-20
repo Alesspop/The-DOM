@@ -1,0 +1,32 @@
+
+h1 {
+    background-color: rgb(253, 142, 179);
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  background-color: #fc9df4;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #491245;
+  color: rgb(253, 142, 179);
+}
+
+.Content {
+font-family: 'Open Sans', sans-serif;
+text-align: left;
+}
+
+#business {
+    background-color: rgb(253, 142, 179);
+}
