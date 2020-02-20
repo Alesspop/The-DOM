@@ -1,3 +1,7 @@
+// Combine What You Know #1, #2
+console.log("The Bakery site is working!");
+window.alert("Grand Opening February 26 at 8:00 a.m! Hope to see you then!");
+
 // getElementById
 var myDemo= document.getElementById("demoparent");
 console.log(myDemo.childNodes.length);
@@ -16,6 +20,7 @@ var textNode = document.createTextNode (" This is the text node I created.");
 myDemo.appendChild(createElement);
 createElement.appendChild(textNode);
 
+// Combine What You Know #3
 var coupon= prompt ("Would you like a 20% off code for your first online order?");
 switch(coupon) {
     case "yes":
